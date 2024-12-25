@@ -1,1 +1,32 @@
-Readme
+# Official HDO Box Repository
+This is the official repository for the HDO Box.
+
+## Features
+- **Vast Content Library**: Movies and TV shows across various genres and languages.
+- **High-Quality Streaming**: Enjoy content up to 4K resolution.
+- **Native Player**: Built-in player with playback controls and Picture-in-Picture mode.
+- **Offline Viewing**: Download movies and TV series for offline use.
+- **User-Friendly Interface**: Intuitive and responsive design.
+
+## Installation Guide
+
+### For Android Devices
+1. Enable **Unknown Sources** in `Settings` > `Security`.
+2. Download the APK from [hdo.app/tv](https://hdo.app/tv).
+3. Install the APK.
+
+### For Firestick/Fire TV
+1. Install the **Downloader** app.
+2. Enable **Apps from Unknown Sources** in `Settings` > `My Fire TV` > `Developer Options`.
+3. Open **Downloader**, go to `hdo.app/tv`, and install the APK.
+
+### For Android TV
+1. Enable **Unknown Sources** in `Settings` > `Security & Restrictions`.
+2. Download the APK from [hdo.app/tv](https://hdo.app/tv).
+3. Install the APK.
+
+## Important Notes
+- **HDO Box** is different from **HDO Pro** and not connected in any way.
+
+## License
+Information about the license for the official HDO Box.
